@@ -1,5 +1,11 @@
 <p align="center">
+<img src="https://i.imgur.com/migo24P.png" width="100" alt="moon highway logo"/>
+</p>
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" width="100" alt="graphql logo"/>
+</p>
+<p align="center">
+<img src="https://begin-static-p6uw2-production.s3.us-west-2.amazonaws.com/forest-1dg/images/cjs-sunbreak-logo.svg" width="100" alt="cascadiajs"/>
 </p>
 
 # CascadiaJS GraphQL Workshop
