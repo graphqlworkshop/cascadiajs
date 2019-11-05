@@ -8,18 +8,6 @@
 
 Welcome! We're really glad that you're here. Below you'll find all of the resources that we'll use throughout this course. If you're looking for slides, samples, links, etc., this is the place to look.
 
-## Topics
-
-### Day 1
-
-- [GraphQL Query Language](https://github.com/graphqlworkshop/cascadiajs#graphql-subscriptions-)
-
-
-### Day 2
-
-- [GraphQL Query Language](https://github.com/graphqlworkshop/summit-bootcamp#graphql-subscriptions-)
-
-
 ## Instructor Info
 
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
@@ -57,10 +45,11 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Sample Data](https://bit.ly/2VF5zJU)
 - [Starting Schemas](https://github.com/graphqlworkshop/schema-activity)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
+- [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
 
-### Midclass Evaluation
+### Mid Class Evaluation
 
-- [Anonymous Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf4LDSnkxJUC1gxJH2p9U4UnKrp3T9O9y3ASMHHnJLsYfJGcA/viewform?usp=sf_link)
+- [Anonymous Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSe0W190l4q11dG0rsW-1y6nc5grqwCEsLgz_HwznmZrCq4UKw/viewform?usp=sf_link)
 
 ## Day 2
 
@@ -95,3 +84,7 @@ curl -X POST \
 - [React Overview](https://slides.com/moonhighway/react-overview)
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 - [Lab Instructions](https://slides.com/moonhighway/client-lab/)
+
+## Final Evaluation
+
+- [Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSeWm2NsU1lPN-U3fIyAGpmZiu2Q3a685zheg1cvzzH4oF2n5Q/viewform?usp=sf_link)
