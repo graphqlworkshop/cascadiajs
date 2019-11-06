@@ -59,6 +59,11 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Union Search - Complete](https://github.com/graphqlworkshop/snowtooth-unions/tree/complete)
 - [Employee Interface - Complete](https://github.com/graphqlworkshop/interface-lab/tree/complete)
 
+### Auth Examples
+
+- [Pet Library](https://pet-library.moonhighway.com)
+- [Pet Library Implementation](https://github.com/MoonHighway/pet-library/blob/initial-version/src/resolvers/Mutation.js)
+
 ### Apollo Client
 
 #### Simple Requests
@@ -80,6 +85,10 @@ curl -X POST \
 - [React Overview](https://slides.com/moonhighway/react-overview)
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 - [Lab Instructions](https://slides.com/moonhighway/client-lab/)
+
+## Links!
+
+* [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 
 ## Final Evaluation
 
