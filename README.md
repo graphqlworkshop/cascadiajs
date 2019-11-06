@@ -86,9 +86,10 @@ curl -X POST \
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 - [Lab Instructions](https://slides.com/moonhighway/client-lab/)
 
-## Links!
+## Next Steps
 
 * [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
+* [Apollo Federation](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
 
 ## Final Evaluation
 
